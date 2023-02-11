@@ -21,7 +21,7 @@
   - :briefcase: aspiring frontend/fullstack developer
   - :zap: fps shoutcaster (casting reel <a href="https://youtu.be/q6xF_J7uA2I">here</a>)
   - :bowl_with_spoon: dry cereal enjoyer
-  - :earth_asia: website <a href="https://gremmyz.github.io/website/">here</a>
+  - :earth_asia: website <a href="https://gremmyz.github.io/website/" target="_blank">here</a>
 
 ---
 
