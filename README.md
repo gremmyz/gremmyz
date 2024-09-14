@@ -17,7 +17,7 @@
   <h2><img src="https://cdn.7tv.app/emote/60ae7316f7c927fad14e6ca2/2x.webp" width="30"/> about me:</h2>
 </div>
 
-  - :woman_technologist: computer science junior in NUS
+  - :woman_technologist: final-year computer science major in NUS
   - :briefcase: aspiring frontend/fullstack developer
   - :zap: fps shoutcaster (casting reel <a href="https://youtu.be/q6xF_J7uA2I">here</a>)
   - :bowl_with_spoon: dry cereal enjoyer
