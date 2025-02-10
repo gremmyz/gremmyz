@@ -18,7 +18,7 @@
 </div>
 
   - :woman_technologist: final-year computer science major in NUS
-  - :briefcase: aspiring frontend/fullstack developer
+  - :briefcase: aspiring sdet/fullstack dev
   - :zap: fps shoutcaster (casting reel <a href="https://youtu.be/q6xF_J7uA2I">here</a>)
   - :bowl_with_spoon: dry cereal enjoyer
   - :earth_asia: website <a href="https://gremmyz.github.io/website/">here</a>
